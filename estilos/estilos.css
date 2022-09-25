@@ -1,0 +1,26 @@
+.parte1{
+   background-image: url(../imagenes/Fondo-cabecera.png);
+}
+
+.parte2{
+
+   
+
+    background-image: url(../imagenes/fondo2-partes2.jpg);
+}
+
+.titulo{
+    margin: 20px;
+    background-color:  rgba(0, 0, 0, 0.507) ;
+    text-align: center;
+    color:#FFF  ;
+    border: solid  #f9a825 ;
+    border-radius: 5%;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.658);
+    font-size: 20px;
+}
+.cristo-rey{
+
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
